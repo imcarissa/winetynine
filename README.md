@@ -32,7 +32,7 @@ yarn run test
 
 👤 **Carissa**
 
-* Website: https://www.linkedin.com/in/carissasarreal/
+* Website: https://instagram.com/winetynine
 * Twitter: [@winety9percent](https://twitter.com/winety9percent)
 * Github: [@imcarissa](https://github.com/imcarissa)
 
