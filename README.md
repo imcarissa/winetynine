@@ -13,7 +13,7 @@
 ## Install
 
 ```sh
-npm start
+
 ```
 
 ## Usage
