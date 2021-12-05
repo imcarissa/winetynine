@@ -8,7 +8,7 @@
 
 > My name is Carissa and I am a sommelier, curator of the  #winetyninepercent - wine classes for the 99% of normal wine drinkers.
 
-### 🏠 [Homepage](https://winetyninepercent.com (coming soon...))
+### 🏠 [Homepage](https://winetyninepercent.com) (coming soon...)
 
 ## Install
 
