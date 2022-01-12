@@ -1,15 +1,12 @@
-import './App.css';
 
-function App() {
+
+
+const App = () => {
   return (
     <div className="App">
-      <header className="App-header">  
-        
-         The Winety9%
-       
-      </header>
+      The Winety9%
     </div>
-  );
+  )
 }
 
-export default App;
+export default App
