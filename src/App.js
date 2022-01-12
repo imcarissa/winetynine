@@ -1,10 +1,14 @@
-
+import Header from './Header'
+import Contact from './Contact'
+import Footer from './Footer'
 
 
 const App = () => {
   return (
     <div className="App">
-      The Winety9%
+      <Header />
+      <Contact />
+      <Footer />
     </div>
   )
 }
